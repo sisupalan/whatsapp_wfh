@@ -1,0 +1,384 @@
+06/05/19, 10:58 am - Messages to this group are now secured with end-to-end encryption. Tap for more info.
+28/11/18, 5:19 pm - +91 89395 63989 created group "JnJ GDAC BANGALORE"
+06/05/19, 10:58 am - Chaitra JNJ added you
+06/05/19, 10:59 am - Chaitra JNJ added Neeraj Skoruz
+06/05/19, 12:07 pm - Chaitra JNJ added +91 98441 36566
+07/05/19, 9:16 am - +91 97425 38314: Hi Shekhar, I will come to office after the call with Manoj.
+07/05/19, 1:44 pm - Chaitra JNJ added +91 99521 39121
+08/05/19, 9:55 am - +91 89710 98593: Hi team.it gives me  immense pleasure to share with you that our results for ensembling of multivariate forecasting has been very much appreciated by China team. Ensembling work was mainly done by Shaini while as I developed multivariate forecasts.
+08/05/19, 9:55 am - +91 89710 98593: *Shalini
+08/05/19, 9:56 am - Karthik Wns: That's great rukhsan and shalini... Kudos to you guys...👏🏻
+08/05/19, 10:06 am - Shekhar JNJ: Great work Rukhsan and Shalini. 👍
+08/05/19, 10:09 am - +91 89710 98593: Thanks Karthik
+08/05/19, 10:09 am - +91 89710 98593: Thanks Shekhar!
+08/05/19, 10:11 am - Chaitra JNJ: Congrats..keep the good job going..Rukhsan & Shalini..👏🏼
+08/05/19, 10:13 am - +91 89395 63989: 👏🏻👏🏻👏🏻👏🏻 congrats guys!!!
+08/05/19, 10:14 am - +91 98441 36566: Congrats guys
+08/05/19, 10:15 am - +91 88844 14418: Great Rukshan and Shalini 👏🏻👏🏻
+08/05/19, 10:16 am - Sagnik Skoruz: Awsum Rukhsan And Shalini..👍👍👍
+08/05/19, 10:20 am - +91 83109 58636: Thank you all😊
+08/05/19, 10:21 am - +91 98109 07732: Congrats rukhsan and shalini
+08/05/19, 10:24 am - +91 89710 98593: Thanks Chaitra.
+08/05/19, 10:24 am - +91 89710 98593: Thank you dear all for the appreciation.
+08/05/19, 10:25 am - +91 89710 98593: Thanks Rahul.
+08/05/19, 10:25 am - +91 89710 98593: Thank you Ravijeet.
+08/05/19, 10:26 am - Sandy: Congratulations👍🏻👍🏻
+08/05/19, 10:26 am - +91 94885 07486: Congrats rukhsan and shalini
+08/05/19, 10:50 am - Sandy: Which models were used btw?
+08/05/19, 10:52 am - +91 89710 98593: Dynamic regression
+08/05/19, 10:52 am - +91 89710 98593: Dynamic regression for multivariate....it is bivariate to be precise
+08/05/19, 10:53 am - Sandy: Okay..
+08/05/19, 10:53 am - Shekhar JNJ removed +91 90369 10546
+08/05/19, 10:53 am - Sandy: And ensemble different dynamic regression models? Or other models were also there in the mix?
+08/05/19, 10:58 am - +91 89710 98593: There are other models like prophet etc. Let's discuss in detail in office.
+08/05/19, 10:58 am - Sandy: Sure..
+08/05/19, 11:00 am - +91 83109 58636: For ensembling we include Arimax, ridge, xg boost & prophet...give weights to individual models as per their performance and got the forecast.
+08/05/19, 11:01 am - Sandy: Okay.. Sounds interesting👍🏻
+08/05/19, 11:01 am - Nayan Skoruz: Great job.....congs to both of u
+08/05/19, 11:01 am - +91 94885 07486: Can you pls share the accuracy/performance of the best model vs what you got from ensembling?
+08/05/19, 11:04 am - +91 83109 58636: Also I would like to thank Kiran for very insightful discussions. 
+Thank you Kiran...☺️
+08/05/19, 11:06 am - Shekhar JNJ: @Rukhsan & @Shalini : Your results have generated lot of curiosity from the team on how you approached the problem and solved it. I suggest you hold a session to take the team through the work you have done.
+08/05/19, 11:07 am - +91 83109 58636: Sure shekhar
+08/05/19, 11:11 am - +91 83109 58636: We will discuss the details in office and give you more insights how ensembling improves the overall results
+08/05/19, 11:12 am - +91 94885 07486: Pls set up n official meeting regarding the same😊
+08/05/19, 11:13 am - +91 83109 58636: Sure we will do that
+08/05/19, 1:47 pm - +91 88611 36633: Wow! 👏🏻
+08/05/19, 1:49 pm - +91 88611 36633: Happy to know that our discussion helped. 👏🏻
+08/05/19, 1:51 pm - +91 83109 58636: Thank you Kiran once again... Looking forward for more discussions😊
+08/05/19, 1:59 pm - +91 95383 65551: Great job Rukhsan and Shalini😊💐💐
+08/05/19, 3:01 pm - +91 89710 98593: Thank you Mathura!
+09/05/19, 4:48 pm - +91 97425 38314: Hi Shekhar, I will be working from home tomorrow.
+09/05/19, 7:06 pm - Sandy: <Media omitted>
+09/05/19, 7:06 pm - Sandy: Stats folks can relate 🙂
+10/05/19, 8:01 pm - Shekhar JNJ: If any of you had left a Jabra headset in 7098, it has been put into safe custody. Please collect it on Monday first half.
+10/05/19, 8:24 pm - +91 98441 36566: Yes ,I had left.. 
+Thanks Shekhar
+10/05/19, 8:24 pm - +91 98441 36566: I will collect it  on Monday.
+11/05/19, 1:14 pm - +91 89710 98593: Hi Shekhar. We presented our ensembling results for multivariate data to Manoj and Li. Manoj was all praise for it. He said he has not seen such detailed analysis recently. Feeling great😊
+11/05/19, 1:24 pm - Shekhar JNJ: Fantastic @Rukhsan and @918310958636 👍
+11/05/19, 1:38 pm - +91 88611 36633: 👏🏻👏🏻
+11/05/19, 1:52 pm - +91 88844 14418: 👏🏻👏🏻👏🏻
+11/05/19, 1:52 pm - +91 88844 14418: https://youtu.be/lyRPyRKHO8M
+11/05/19, 2:09 pm - +91 89710 98593: Thanks Shekhar. I must add that detailed analysis of ensembling models was done by Shalini. She literally worked overnight to make sure that we have results in time. Kudos to Shalini!
+11/05/19, 2:09 pm - +91 89710 98593: Thanks.
+11/05/19, 2:09 pm - +91 89710 98593: Thanks.
+11/05/19, 5:22 pm - +91 95383 65551: Amazing Rukhsan👌😊👍
+11/05/19, 5:32 pm - Sagnik Skoruz: Ruksan and Shalini Awsum... Would like to go through and understand your model..👏👏👏👍👍👍
+11/05/19, 6:07 pm - +91 89710 98593: Thanks Mathura.
+11/05/19, 6:07 pm - +91 89710 98593: Thanks. Sure we can talk about it.
+11/05/19, 6:22 pm - Sagnik Skoruz: Thank you very much...
+11/05/19, 7:03 pm - Nikhil Skoruz: Congrats rukhsan and shalini 👏🏻👏🏻
+11/05/19, 10:15 pm - +91 89710 98593: Thanks Nikhil.
+13/05/19, 9:57 am - +91 83109 58636: Thank you Nikhil
+13/05/19, 9:57 am - Shekhar JNJ: All, I have asked Spaces to flush all Mac addresses registered in out account id as there are too many of them. Due to this you may find that you are not able to connect to Spaces network. If so, please connect again using our membership account number 9308155.
+13/05/19, 10:08 am - +91 88611 36633: Sure Shekhar, Thank you.
+13/05/19, 12:05 pm - Chaitra JNJ: We have locked the door 7099. Going forward kindly use the door 7100 only..
+14/05/19, 3:58 pm - Chaitra JNJ added +91 99494 57081
+14/05/19, 3:59 pm - Chaitra JNJ added +91 97411 92278
+15/05/19, 1:53 pm - Nayan Skoruz: <Media omitted>
+15/05/19, 1:53 pm - Nayan Skoruz: <Media omitted>
+15/05/19, 1:53 pm - Nayan Skoruz: This message was deleted
+15/05/19, 1:53 pm - Nayan Skoruz: <Media omitted>
+15/05/19, 1:53 pm - Nayan Skoruz: <Media omitted>
+15/05/19, 1:53 pm - Nayan Skoruz: <Media omitted>
+15/05/19, 1:53 pm - Nayan Skoruz: <Media omitted>
+15/05/19, 1:53 pm - Nayan Skoruz: <Media omitted>
+15/05/19, 1:53 pm - Nayan Skoruz: <Media omitted>
+15/05/19, 1:53 pm - Nayan Skoruz: <Media omitted>
+15/05/19, 1:57 pm - Nayan Skoruz: <Media omitted>
+15/05/19, 4:04 pm - +91 95383 65551: Wow😊👍nice guys...I missed it😕
+15/05/19, 7:10 pm - +91 97425 38314: Hi Shekhar, Tomorrow I will be working from home.
+16/05/19, 5:25 pm - Sandy: Guys..Has anyone worked on JDE erp?
+16/05/19, 5:49 pm - Vanitha Skoruz: I have worked on jde data extraction there but have just limited knowledge.
+16/05/19, 5:51 pm - Sandy: Cool.. I'll connect with you over email regarding this..
+16/05/19, 5:52 pm - Sandy: Whats your jnj id?
+16/05/19, 5:53 pm - Vanitha Skoruz: VG1@its.jnj.com
+16/05/19, 5:54 pm - Sandy: Thanks..
+18/05/19, 2:21 pm - +91 94885 07486: Hi team. I forgot my phone charger at my desk. If anyone has collected it or come across it then please let me know.
+20/05/19, 10:04 am - Nayan Skoruz: Hi team if anyone gets a type c earphone adapters in the meeting room(red color) please let me know.
+20/05/19, 10:05 am - Sandy: Not here
+20/05/19, 10:06 am - Nayan Skoruz: Sandeep can u check my desk as well
+20/05/19, 10:06 am - Nayan Skoruz: Or on the floor
+20/05/19, 10:06 am - Sandy: Just kidding its here😂😂
+20/05/19, 10:06 am - Nayan Skoruz: Haha
+20/05/19, 10:06 am - Nayan Skoruz: Thanks
+20/05/19, 10:06 am - Sandy: 👍
+20/05/19, 11:30 am - Shekhar JNJ: Team, our 11:30 call is at MR4
+20/05/19, 12:25 pm - Nayan Skoruz: After the exit polls the opposition has rescheduled its meeting to opt PM candidate from 24 May to May ‘24.
+😜😜
+20/05/19, 12:29 pm - +91 95383 65551: Hello everyone...pls help urself...some chocolates from offshore  and from emea onsite team😊
+20/05/19, 12:29 pm - +91 95383 65551: Chocolates are kept on Chaitra's desk
+23/05/19, 10:38 am - Nayan Skoruz: <Media omitted>
+23/05/19, 10:38 am - Nayan Skoruz: Election results live
+23/05/19, 10:43 am - +91 99494 57081: 😀😀😀
+23/05/19, 10:46 am - Chaitra JNJ: Keep sending live updates..🤟🏼
+23/05/19, 10:49 am - Shekhar JNJ: Team, this group is meant for only professional discussion, updates. Please avoid discussion about politics, personal opinions on non professional topics on this group pls.
+23/05/19, 10:51 am - Nayan Skoruz: This message was deleted
+23/05/19, 10:51 am - Nayan Skoruz: Got you...Shekhar thanks
+23/05/19, 10:57 am - Chaitra JNJ added Mahesh Skoruz and +91 97177 40888
+24/05/19, 11:08 am - Chaitra JNJ: Team..
+May I know who all r working from home today..?
+24/05/19, 11:08 am - Sandy: I'm working from skoruz office today
+24/05/19, 11:09 am - Nikhil Skoruz: Hi Chaitra
+I'll be working from the skoruz office today since I have a laptop issue
+24/05/19, 11:12 am - Karthik Wns: I m wfh today
+24/05/19, 11:24 am - Sagnik Skoruz: I’m also working from home today
+24/05/19, 11:28 am - +91 94885 07486: I'm working out of skoruz
+24/05/19, 11:57 am - Nayan Skoruz: I m working from Skoruz
+24/05/19, 2:35 pm - +91 89710 98593: Hi Shekhar. Update for ecommerce is that using anomaly detection and some new models for multivariate data we have improved our forecast for the skus where models were not working well. We will present results in today review meeting with Manoj and Li.
+24/05/19, 3:14 pm - Shekhar JNJ: Ok
+28/05/19, 11:33 am - Nayan Skoruz: Hi Shekhar. I'll be 10 mins late due to heavy traffic
+28/05/19, 11:34 am - Chaitra JNJ: Today's call is cancelled..
+28/05/19, 11:50 am - Nikhil Skoruz: Hi Team. I will be WFH today
+28/05/19, 11:56 am - +91 99494 57081: Hi guys. I will be WFH today.
+28/05/19, 12:45 pm - Mahesh Skoruz: Hi team , I'm also wfh today
+29/05/19, 1:01 pm - Chaitra JNJ: Team..
+Some chocolates bought by Kiran at my desk..kindly help urself 🙂
+29/05/19, 1:11 pm - Shekhar JNJ: Team, I have a request from one of the CoEs based out of Singapore on PCA and python. Is there anyone who is willing to look into it and provide any support you can?
+29/05/19, 1:11 pm - Sandy: I can help out
+29/05/19, 1:12 pm - Shekhar JNJ: Ok. I am connecting you.
+30/05/19, 10:15 am - +91 97411 92278: Hi Team, Today, am working from home...
+30/05/19, 10:16 am - +91 97425 38314: m also wfh
+30/05/19, 10:18 am - Sandy: I'm wfh
+30/05/19, 10:47 am - Chaitra JNJ added +91 80085 37033
+30/05/19, 11:34 am - Chaitra JNJ added +91 91089 01958
+31/05/19, 11:08 am - +91 97425 38314: Hi Shekhar, I will be 10-15 mins late. Stuck in traffic
+31/05/19, 11:21 am - Chaitra JNJ: Team
+Today's 11.30 am meeting is at MR4 conf room..
+31/05/19, 11:21 am - Sandy: Okay
+31/05/19, 11:24 am - Chaitra JNJ: This is only for Advance Analytics..
+03/06/19, 8:27 am - Neeraj Skoruz: I am WFH today.
+03/06/19, 8:31 am - +91 80085 37033: I am WFH today
+03/06/19, 12:17 pm - Chaitra JNJ added +91 88849 02540
+04/06/19, 10:32 am - +91 99494 57081: Hi good morning.
+04/06/19, 10:33 am - +91 99494 57081: I WFH Today.
+04/06/19, 10:36 am - +91 97425 38314: I am WFH
+04/06/19, 10:47 am - +91 99521 39121: This message was deleted
+04/06/19, 11:09 am - +91 88849 02540: Tommarow is holiday or working day?
+04/06/19, 11:31 am - Chaitra JNJ added +91 78288 17620
+04/06/19, 11:36 am - Chaitra JNJ: It's a holiday tomorrow
+04/06/19, 12:23 pm - +91 88849 02540: Ok
+04/06/19, 1:05 pm - +91 99521 39121: I'm also working from home.
+06/06/19, 9:19 am - +91 80085 37033: Today i am working from home
+06/06/19, 9:38 am - Nikhil Skoruz: Hi Team. I'll be WFH today
+06/06/19, 9:39 am - Nayan Skoruz: Hi I will be wfh today.
+06/06/19, 10:29 am - Chaitra JNJ: I will be late by 20min..stuck in traffic
+06/06/19, 11:11 am - Chaitra JNJ: Team,
+
+Today's SCDM call at 11.30am is cancelled.
+07/06/19, 8:43 am - +91 88844 14418: Hi team , I am working from home today
+07/06/19, 8:55 am - +91 83109 58636: Hi Shekhar, 
+I am going to skoruz office today for laptop replacement.
+07/06/19, 9:09 am - +91 80085 37033: Hi Team, today i am working from home.
+07/06/19, 9:55 am - +91 89710 98593: I am on leave today.
+07/06/19, 10:16 am - Vanitha Skoruz: Hi Team,
+I am wfh today.
+07/06/19, 10:24 am - Sandy: I'm wfh today..
+07/06/19, 11:04 am - Chaitra JNJ: Team
+
+Today's Advance Analytics call is cancelled.
+07/06/19, 12:13 pm - Chaitra JNJ removed +91 95383 65551
+10/06/19, 2:11 pm - Shekhar JNJ: Team, will need our meeting room between 2:30 to 3:00 pm
+11/06/19, 8:51 am - +91 88849 02540: Hi Team,
+Today am wfh
+11/06/19, 8:55 am - +91 98441 36566: Hi Shekhar & Team, I am working from home today.
+11/06/19, 11:04 am - +91 80085 37033: Hi, today i am working from home.
+11/06/19, 11:05 am - Sandy: I'm wfh today
+11/06/19, 11:29 am - Shekhar JNJ: Team, we will meet in 7098 for today's 11:30 scdm meeting
+12/06/19, 10:18 am - +91 99494 57081: I'm wfh today
+12/06/19, 11:25 am - +91 88611 36633: Hi Shekhar, I’m stuck on road due to extreme traffic today. I’ll be late by 10 min. Apologies.
+12/06/19, 1:06 pm - Shekhar JNJ: https://www.analyticsindiamag.com/why-salesforce-acquired-tableau/
+13/06/19, 8:07 am - +91 80085 37033: Today I am working from home.
+13/06/19, 9:38 am - +91 97425 38314: I am wfh
+13/06/19, 9:39 am - +91 88844 14418: Hi Team, I am also Wfh today
+13/06/19, 9:39 am - Vanitha Skoruz: Hi Team,
+I am working from home today
+13/06/19, 10:13 am - Nikhil Skoruz: Hi Team. I'm wfh today
+13/06/19, 10:47 am - +91 78288 17620: Hi team, I am on leave today.
+-Hemant
+14/06/19, 8:26 am - +91 97177 40888: Hi Team,
+I am working from home today.
+14/06/19, 9:19 am - +91 97411 92278: Dear Team, I'am wfh for today...
+14/06/19, 10:29 am - +91 98441 36566: Hi Team,
+I am working from home today
+14/06/19, 10:53 am - +91 97425 38314: I will be late reaching office
+14/06/19, 11:02 am - +91 99521 39121: Hi Team,  I'm working from home.
+14/06/19, 12:23 pm - +91 99494 57081: Hi Team,  I'm working from home Today.
+17/06/19, 9:58 am - +91 80085 37033: Hi, I'm working from home today.
+17/06/19, 10:23 am - Nikhil Skoruz: Hi Team
+I'm wfh today
+17/06/19, 10:54 am - Shekhar JNJ: Team, today's 11:30 am call stands cancelled.
+17/06/19, 12:02 pm - Nayan Skoruz: Hi team I am wfh today
+17/06/19, 2:30 pm - Shekhar JNJ: Does anyone at office have experience with powerBI?
+17/06/19, 2:33 pm - +91 98109 07732 left
+17/06/19, 2:44 pm - Nayan Skoruz: Yes
+17/06/19, 2:44 pm - Nayan Skoruz: I have
+17/06/19, 2:58 pm - Shekhar JNJ: Can you meet me?
+17/06/19, 3:33 pm - Nayan Skoruz: Tomorrow I am returning to Bangalore. Can we speak tomorrow then ?
+17/06/19, 3:33 pm - Shekhar JNJ: Ok
+17/06/19, 4:26 pm - Sagnik Skoruz left
+18/06/19, 3:45 am - +91 99494 57081: Hi team I am wfh today
+18/06/19, 8:49 am - Vanitha Skoruz: Hi team,
+I am wfh today.
+18/06/19, 8:54 am - +91 97177 40888: Hi Team,
+I am working from home today.
+18/06/19, 8:54 am - Mahesh Skoruz: Hi team, I'm working from home today
+18/06/19, 9:21 am - Karthik Wns: Hi team, I am working from home today
+18/06/19, 9:23 am - +91 80085 37033: Hi, i am working from home today
+19/06/19, 7:20 am - +91 98441 36566: Hi Team,
+I am working from home today.
+19/06/19, 7:28 am - +91 88844 14418: Hi Team , I am working from home today
+20/06/19, 6:30 am - +91 99494 57081: Hi Team,
+I am working from home today.
+20/06/19, 7:09 am - +91 97425 38314: I am wfh
+20/06/19, 10:10 am - +91 97411 92278: Dear Team, I'am wfh for today...
+20/06/19, 10:25 am - +91 80085 37033: Hi , I am working from home today
+20/06/19, 12:25 pm - Shekhar JNJ: Team, is there  winshuttle equivalent for JDE?
+20/06/19, 1:18 pm - +91 99521 39121: Hi Shekhar,  
+ Innowera is same like Winshuttle
+20/06/19, 5:33 pm - Shekhar JNJ: Thanks Karthik
+21/06/19, 8:51 am - Sandy: I'll be working from Skoruz office today
+21/06/19, 8:52 am - Nayan Skoruz: Same here
+21/06/19, 9:23 am - +91 97411 92278: Dear Team, I'am wfh for today...
+21/06/19, 10:22 am - +91 80085 37033: Hi, today i am working from home.
+21/06/19, 11:32 am - +91 99521 39121: Hi,  today I am working from home.
+21/06/19, 11:38 am - +91 99494 57081: Dear Team, I'am wfh for today...
+22/06/19, 8:37 am - +91 89710 98593: https://timesofindia.indiatimes.com/india/jncasr-only-indian-institute-in-natures-top-10/articleshow/69893484.cms?from=mdr
+22/06/19, 8:39 am - +91 89710 98593: It is great to see my alma mater to be ranked to 7th in normalized rankings published in Nature and to be the only Indian institute to have rank below 10.
+24/06/19, 8:32 am - +91 97425 38314: I am work from home.
+24/06/19, 8:52 am - +91 80085 37033: Hi, today i am working from home.
+24/06/19, 9:02 am - Mahesh Skoruz: Hi team , I'm working from home
+24/06/19, 10:54 am - +91 99494 57081: Happy Birthday Manoranjan!!
+24/06/19, 10:55 am - Chaitra JNJ: Team,
+
+Today's 11.30 am call  'weekly all hands meet ' is cancelled
+24/06/19, 11:19 am - +91 98441 36566: Thanks Vijay
+25/06/19, 6:03 am - +91 99494 57081: Dear Team, I'am wfh for today...
+25/06/19, 9:45 am - +91 80085 37033: Hi , I am working from home today
+25/06/19, 10:14 am - +91 88844 14418: I am work from home today
+26/06/19, 9:53 am - Vanitha Skoruz: Hi Team,
+I am working from home today.
+26/06/19, 10:13 am - Nikhil Skoruz: Hi team. I am working from home today
+26/06/19, 12:15 pm - +91 99494 57081: Dear Team, I'am wfh for today...
+27/06/19, 10:05 am - Nayan Skoruz: Hi team, I am working from home today
+27/06/19, 10:19 am - +91 80085 37033: Hi, I am working from home today.
+28/06/19, 8:59 am - +91 98441 36566: Hi Team , I am working from home today.
+28/06/19, 9:32 am - Karthik Wns: Hi...i am wfh today...
+28/06/19, 9:34 am - +91 80085 37033: Hi, I am working from home today.
+28/06/19, 10:44 am - Chaitra JNJ added Nikita Skoruz
+28/06/19, 10:46 am - Nikita Skoruz: Hi all. Nikita here🙂
+28/06/19, 10:48 am - Nayan Skoruz: Helloz and welcome
+28/06/19, 10:49 am - Shekhar JNJ: All:
+
+Nikita is part of the Global HR workforce analytics team in GDAC.
+
+Welcome to GDAC Nikita. 
+
+Thanks.
+28/06/19, 10:53 am - +91 97411 92278: Welcome to GDAC family, Nikita.... All the best... 👍
+28/06/19, 10:54 am - Nikita Skoruz: Thank you.👍🏻
+28/06/19, 10:55 am - +91 98441 36566: Welcome to GDAC.
+28/06/19, 10:55 am - +91 94885 07486: Welcome to GDAC Nikita 😊
+28/06/19, 12:34 pm - +91 99521 39121: Hi Team , I am working from home today.
+28/06/19, 12:35 pm - +91 99494 57081: Dear Team, I am WFH Today
+28/06/19, 12:50 pm - Chaitra JNJ added +91 94878 40217
+28/06/19, 12:57 pm - Chaitra JNJ: Team,
+
+Ganesh has joined GDAC as Data scientist.
+
+Welcome Ganesh
+28/06/19, 12:59 pm - +91 94878 40217: Thank you 😊😊
+28/06/19, 1:35 pm - +91 94885 07486: Welcome Ganesh
+28/06/19, 1:53 pm - +91 97411 92278: Welcome Ganesh... All the best... 👍
+28/06/19, 2:29 pm - Shekhar JNJ: Ganesh will be part of NC Reduction project lead by Vishal Varma from US. He will work along with Mouli on this project from GDAC.
+
+Welcome Ganesh.
+28/06/19, 4:51 pm - +91 94878 40217: Thank you 😊
+28/06/19, 4:51 pm - +91 88844 14418: Welcome Ganesh and Nikita 😊👍🏻 All the best
+28/06/19, 4:52 pm - Sandy: Welcome guys!🤟🏻👍🏻
+28/06/19, 4:54 pm - Nikita Skoruz: Thank you all.👍🏻..
+01/07/19, 10:06 am - +91 99494 57081: Hi Team Today I am WFH
+01/07/19, 10:09 am - +91 97411 92278: Dear Team, for today am working from home...
+01/07/19, 10:53 am - Chaitra JNJ removed Nayan Skoruz
+01/07/19, 10:54 am - Sandy: I'll be a little late.. Apologies for the inconvenience
+01/07/19, 3:24 pm - Chaitra JNJ added +91 87923 85243
+01/07/19, 3:25 pm - Chaitra JNJ: Team,
+
+Jagadeesh is part of Global HR workforce analytics team in GDAC.
+
+Welcome to GDAC Jagadeesh.
+01/07/19, 3:57 pm - +91 98441 36566: Welcome to GDAC Jagadeesh.
+01/07/19, 4:01 pm - Shekhar JNJ: Welcome Jagdeesh to GDAC
+01/07/19, 4:03 pm - +91 87923 85243: Thank you..
+01/07/19, 4:05 pm - +91 94885 07486: Welcome to GDAC Jagadeesh :)
+02/07/19, 8:15 am - +91 97425 38314: I am wfh
+02/07/19, 8:43 am - +91 97411 92278: Hi Team, Today I'am WFH
+02/07/19, 9:45 am - Mahesh Skoruz: Hi, I'm working from skoruz office today
+02/07/19, 11:23 am - Nikhil Skoruz: Hi team
+I am wfh today
+02/07/19, 11:36 am - +91 99494 57081: Hi Team am working from HCL office today
+03/07/19, 9:43 am - Nikita Skoruz: Hi I am wfh toady.
+03/07/19, 10:46 am - +91 87923 85243: Hi I am working from home today
+03/07/19, 10:55 am - Chaitra JNJ added +91 97129 52475
+03/07/19, 11:02 am - Chaitra JNJ: Team,
+
+Prasad is a part of MDM team at GDAC.
+
+Welcome to GDAC Prasad.
+03/07/19, 11:02 am - +91 97129 52475: Thanks Chaitra.
+03/07/19, 11:02 am - Nikita Skoruz: Welcome Prasad🙂
+03/07/19, 11:21 am - Chaitra JNJ: Team,
+
+Today's Advance Analytics meeting at 11.30am is at conf room 7098
+03/07/19, 11:29 am - Sandy: I'm stuck in traffic.. here are my updates :-
+
+ATP- 
+1. Write scripts for modelling portion of ui. Need to add preprocessing scripts.
+2. Working on integrating prediction part and model selection part.
+
+HCC Singapore:-
+1. Made changes requested by Siva. 
+2. Siva is working on getting more features for the data. Once we get that, we will integrate it into final model. Will be catching up with Siva today regarding that.
+03/07/19, 12:38 pm - +91 99521 39121: Hi Team, I am working from home today.
+04/07/19, 9:15 am - +91 88844 14418: Hi Team , I am working from home today
+04/07/19, 9:18 am - +91 99494 57081: Hi Team am working from home Today.
+04/07/19, 9:25 am - Vanitha Skoruz: Hi team,
+I am working from home
+04/07/19, 9:54 am - +91 97177 40888: Hi Team,
+I am working from home today.
+04/07/19, 9:55 am - Mahesh Skoruz: Hi, I'm working from skoruz office
+04/07/19, 10:03 am - +91 87923 85243: Hi I am wfh today
+04/07/19, 10:34 am - +91 98441 36566: Hi Team , I am working from home today
+05/07/19, 9:35 am - Neeraj Skoruz: I am working from home today.
+05/07/19, 10:11 am - Karthik Wns: I m wfh today...
+05/07/19, 10:15 am - +91 99494 57081: Hi Team I am WFH Today.
+05/07/19, 10:16 am - +91 97411 92278: Hi Team, Today I'am WFH
+05/07/19, 10:17 am - Mahesh Skoruz: I'm working from home today
+05/07/19, 10:23 am - Nikita Skoruz: Hi,today I'm WFH
+05/07/19, 10:24 am - Nikhil Skoruz: Hi team. I'm wfh
+05/07/19, 10:25 am - +91 87923 85243: Hi I'm wfh today
+05/07/19, 11:26 am - Shekhar JNJ: All, I have got Prasad from Tirupati temple. Please feel free to come and have it. It will be at Chaitra's desk.
+05/07/19, 11:27 am - +91 88611 36633: Hi Shekhar, I’ll be a bit late to office today. I’ll join stand up call online.
+05/07/19, 11:55 am - Neeraj Skoruz: Hi shekhar, Sorry I couldn't  able to join today's call, here is my update-
+1. Completed upload functionality.
+2. Working on model parameter configuration
+05/07/19, 12:41 pm - +91 99521 39121: Hi, I am working from home today.
+05/07/19, 1:02 pm - +91 94878 40217: Hi team,I am working from home today
+08/07/19, 8:01 am - Sandy: I will be a little late. I'm on my way from Yercaud.
+08/07/19, 10:02 am - Neeraj Skoruz: I am working from home today.
+08/07/19, 10:07 am - +91 97177 40888: I am working from home today.
+08/07/19, 10:09 am - +91 97129 52475: I am working from home today.
+08/07/19, 11:05 am - +91 87923 85243: Hi I am working from home today..
+08/07/19, 11:05 am - Nikhil Skoruz: Hi team, I am wfh today
+08/07/19, 11:10 am - +91 99494 57081: Hi Team I am not well. I am taking sick leave today
+08/07/19, 11:19 am - Chaitra JNJ: Team,
+
+Today's  'All hands meet' meeeting is at conference room 7098.
+08/07/19, 12:31 pm - +91 99521 39121: Hi Team, I am working from home today.
+09/07/19, 10:32 am - Nikita Skoruz: Hi team, wfh toady
+09/07/19, 10:33 am - +91 80085 37033: Hi, i am working from home today.
+09/07/19, 10:38 am - +91 97425 38314: Hi, i am wfh today.
+09/07/19, 11:24 am - Vanitha Skoruz: Hi team,
+I am working from home today
+09/07/19, 11:59 am - +91 99494 57081: I am WFH Today.
